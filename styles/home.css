@@ -1,0 +1,571 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 194rem;
+}.home-ihw {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  background-color: #ffffff;
+}
+.home-ihw .auto-group-vrw5-9oF {
+  margin-right: 1.7rem;
+  width: 88.5rem;
+  height: 94.2rem;
+  position: relative;
+  background-color: rgba(0, 209, 255, 0.6499999762);
+  flex-shrink: 0;
+}
+.home-ihw .auto-group-vrw5-9oF .ellipse-3-oFX {
+  width: 63.1rem;
+  height: 60.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-ihw .auto-group-vrw5-9oF .product-vL9 {
+  width: 10.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 49.2rem;
+  top: 3rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: 0.468rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-ihw .auto-group-vrw5-9oF .group-2-a9o {
+  width: 39.2rem;
+  height: 44.5rem;
+  position: absolute;
+  left: 18.2rem;
+  top: 11.3rem;
+  box-shadow: 0.8rem 0.8rem 0.97rem rgba(0, 0, 0, 0.25);
+}
+.home-ihw .auto-group-vrw5-9oF .group-2-a9o .rectangle-5-VnZ {
+  width: 31.4rem;
+  height: 39rem;
+  position: absolute;
+  left: 4.7rem;
+  top: 3.6rem;
+  background-color: #2a2a2a;
+  border-radius: 2.3rem;
+}
+.home-ihw .auto-group-vrw5-9oF .group-2-a9o .group-3-1F7 {
+  width: 7.8rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 16.5rem;
+  top: 29rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5204000473;
+  color: #000000;
+  font-family: Exo 2, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #00d1ff;
+  border-radius: 0.7rem;
+}
+.home-ihw .auto-group-vrw5-9oF .group-2-a9o .rectangle-8-FQM {
+  width: 6.5rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 32.7rem;
+  top: 38.3rem;
+  background-color: rgba(0, 209, 255, 0.8199999928);
+  border-radius: 1.1rem;
+}
+.home-ihw .auto-group-vrw5-9oF .group-2-a9o .rectangle-7-Lgh {
+  width: 9.4rem;
+  height: 9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(0, 209, 255, 0.8600000143);
+  border-radius: 1.1rem;
+}
+.home-ihw .auto-group-vrw5-9oF .group-2-a9o .group-5-GaM {
+  width: 24.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 8.2rem;
+  top: 12.5rem;
+  border-radius: 0.5rem;
+}
+.home-ihw .auto-group-vrw5-9oF .group-2-a9o .group-5-GaM .username-oKP {
+  margin-bottom: 0.3rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5204000473;
+  color: #ffffff;
+  font-family: Exo 2, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-ihw .auto-group-vrw5-9oF .group-2-a9o .group-5-GaM .rectangle-6-jTw {
+  width: 100%;
+  height: 2.4rem;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.home-ihw .auto-group-vrw5-9oF .group-2-a9o .group-4-GTs {
+  width: 24.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 8.2rem;
+  top: 19.2rem;
+  border-radius: 0.5rem;
+}
+.home-ihw .auto-group-vrw5-9oF .group-2-a9o .group-4-GTs .password-BKw {
+  margin-bottom: 0.3rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5204000473;
+  color: #ffffff;
+  font-family: Exo 2, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-ihw .auto-group-vrw5-9oF .group-2-a9o .group-4-GTs .rectangle-9-Wt1 {
+  width: 100%;
+  height: 2.4rem;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.home-ihw .auto-group-vrw5-9oF .group-2-a9o .login-rgy {
+  width: 6.7rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 17.4rem;
+  top: 5.6rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.5204000473;
+  color: #ffffff;
+  font-family: Exo 2, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-ihw .auto-group-vrw5-9oF .group-2-a9o .group-6-Mtd {
+  width: 9.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 8.2rem;
+  top: 24.7rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.3rem;
+}
+.home-ihw .auto-group-vrw5-9oF .group-2-a9o .group-6-Mtd .rectangle-11-tNm {
+  margin-right: 0.5rem;
+  width: 1.2rem;
+  height: 1.2rem;
+  background-color: #ffffff;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.home-ihw .auto-group-vrw5-9oF .group-2-a9o .group-6-Mtd .remember-me-nyw {
+  margin-bottom: 0.1rem;
+  font-size: 1.1rem;
+  font-weight: 500;
+  line-height: 1.5203999606;
+  color: #ffffff;
+  font-family: Exo 2, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-ihw .auto-group-vrw5-9oF .group-2-a9o .forgot-password-7mK {
+  width: 11.4rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 22.8rem;
+  top: 24.7rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.5204000473;
+  color: #ffffff;
+  font-family: Exo 2, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-ihw .auto-group-vrw5-9oF .group-2-a9o .dont-have-account-sign-up-pQq {
+  width: 18.9rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 12.3rem;
+  top: 34.3rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.5204000473;
+  color: #ffffff;
+  font-family: Exo 2, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.home-ihw .auto-group-vrw5-9oF .group-2-a9o .dont-have-account-sign-up-pQq .dont-have-account-sign-up-pQq-sub-0 {
+}
+.home-ihw .auto-group-vrw5-9oF .group-2-a9o .dont-have-account-sign-up-pQq .dont-have-account-sign-up-pQq-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 900;
+  line-height: 1.5204000473;
+  color: #ffffff;
+  font-family: Exo 2, 'Source Sans Pro';
+}
+.home-ihw .auto-group-vrw5-9oF .group-7-neV {
+  box-sizing: border-box;
+  padding: 0.9rem 1.7rem 3.7rem 1.7rem;
+  width: 12.4rem;
+  height: 100rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #2a2a2a;
+}
+.home-ihw .auto-group-vrw5-9oF .group-7-neV .logo-1-svq {
+  margin-bottom:  23.200000000000003rem;
+  width: 9rem;
+  height: 10rem;
+  position: relative;
+  background-size: 151.057% 136.24%;
+  background-position: -2.3656rem -1.7166rem;
+  background-image: url('../assets/logo-1.png');
+  flex-shrink: 0;
+}
+.home-ihw .auto-group-vrw5-9oF .group-7-neV .group-11-xSV {
+  margin-bottom: 3.2rem;
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-ihw .auto-group-vrw5-9oF .group-7-neV .group-10-gdP {
+  margin-bottom: 3rem;
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-ihw .auto-group-vrw5-9oF .group-7-neV .group-9-2hF {
+  margin: 0rem 0.2rem 3rem 0rem;
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-ihw .auto-group-vrw5-9oF .group-7-neV .group-8-vnd {
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-ihw .auto-group-vrw5-9oF .group-12-4tq {
+  width: 20.5rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 28.4rem;
+  top: 60.3rem;
+  font-size: 2.1rem;
+  font-weight: 900;
+  line-height: 1.5204000927;
+  color: #ffffff;
+  font-family: Exo 2, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #00d1ff;
+  border-radius: 2rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.home-ihw .auto-group-dzjx-tN5 {
+  margin-bottom: 23rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-ihw .auto-group-dzjx-tN5 .auto-group-cgww-cYy {
+  margin: 0rem 10.563rem 1.159rem 0rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-ihw .auto-group-dzjx-tN5 .auto-group-cgww-cYy .authors-wLM {
+  margin-right: 7.1rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: 0.468rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-ihw .auto-group-dzjx-tN5 .auto-group-cgww-cYy .about-T3o {
+  margin-right: 26.9625rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.2175;
+  letter-spacing: 0.468rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-ihw .auto-group-dzjx-tN5 .auto-group-cgww-cYy .ci-hamburger-lg-ynq {
+  margin-top: 0.2118rem;
+  width: 2.775rem;
+  height: 1.5294rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-ihw .auto-group-dzjx-tN5 .auto-group-9plf-hTw {
+  margin: 0rem 3.8rem 2.4rem 0rem;
+  width: 61.8rem;
+  height: 55.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-ihw .auto-group-dzjx-tN5 .auto-group-9plf-hTw .ellipse-4-RPw {
+  width: 40rem;
+  height: 40rem;
+  position: absolute;
+  left: 14.1rem;
+  top: 8.7rem;
+  filter: blur(17.855rem);
+  background-color: #000000;
+  border-radius: 20rem;
+}
+.home-ihw .auto-group-dzjx-tN5 .auto-group-9plf-hTw .komponen-2-wdB {
+  width: 52.2rem;
+  height: 55.8rem;
+  position: absolute;
+  left: 8rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-ihw .auto-group-dzjx-tN5 .auto-group-9plf-hTw .komponen-Ud7 {
+  width: 47.2208rem;
+  height: 41.0421rem;
+  position: absolute;
+  left: 4.4427rem;
+  top: 10.7rem;
+  box-shadow: 0.7rem 1.1rem 0.87rem rgba(0, 0, 0, 0.25);
+}
+.home-ihw .auto-group-dzjx-tN5 .auto-group-9plf-hTw .komponen-Ud7 .laptop-1-1sw {
+  width: 25.2008rem;
+  height: 34.2778rem;
+  position: absolute;
+  left: 22.02rem;
+  top: 4.2868rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-ihw .auto-group-dzjx-tN5 .auto-group-9plf-hTw .komponen-Ud7 .mouse-1-9UM {
+  width: 21.4452rem;
+  height: 21.4452rem;
+  position: absolute;
+  left: 7.3574rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-ihw .auto-group-dzjx-tN5 .auto-group-9plf-hTw .komponen-Ud7 .hedset-1-tB3 {
+  width: 27.1421rem;
+  height: 27.1421rem;
+  position: absolute;
+  left: 0;
+  top: 13.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-ihw .auto-group-dzjx-tN5 .auto-group-9plf-hTw .group-1-BR3 {
+  width: 10.1rem;
+  height: 23rem;
+  position: absolute;
+  left: 51.7rem;
+  top: 10.7rem;
+  display: flex;
+  align-items: flex-start;
+}
+.home-ihw .auto-group-dzjx-tN5 .auto-group-9plf-hTw .group-1-BR3 .rectangle-3-urq {
+  width: 0.1rem;
+  height: 17.2rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.home-ihw .auto-group-dzjx-tN5 .auto-group-9plf-hTw .group-1-BR3 .baf-technology-fLD {
+  max-width: 10rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2102272511;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-ihw .auto-group-dzjx-tN5 .auto-group-9plf-hTw .group-1-BR3 .baf-technology-fLD .baf-technology-fLD-sub-0 {
+  font-size: 6.4rem;
+  font-weight: 200;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Exo 2, 'Source Sans Pro';
+}
+.home-ihw .auto-group-dzjx-tN5 .auto-group-9plf-hTw .group-1-BR3 .baf-technology-fLD .baf-technology-fLD-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Exo 2, 'Source Sans Pro';
+}
+.home-ihw .auto-group-dzjx-tN5 .auto-group-9plf-hTw .baf-technology-menjual-berbagai-produk-teknologi-dengan-merek-yang-bervariasi-mulai-dari-laptop-sampai-gadget-terkini-semuanya-tersedia-dengan-design-marketplace-yang-futuristik-dapat-memanjakan-mata-anda-agar-tidak-jenuh-dalam-memilih-barang-zG1 {
+  width: 30.9rem;
+  height: 9.5rem;
+  position: absolute;
+  left: 0;
+  top: 4.6rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.3671000554;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.home-ihw .auto-group-dzjx-tN5 .auto-group-9plf-hTw .baf-technology-menjual-berbagai-produk-teknologi-dengan-merek-yang-bervariasi-mulai-dari-laptop-sampai-gadget-terkini-semuanya-tersedia-dengan-design-marketplace-yang-futuristik-dapat-memanjakan-mata-anda-agar-tidak-jenuh-dalam-memilih-barang-zG1 .baf-technology-menjual-berbagai-produk-teknologi-dengan-merek-yang-bervariasi-mulai-dari-laptop-sampai-gadget-terkini-semuanya-tersedia-dengan-design-marketplace-yang-futuristik-dapat-memanjakan-mata-anda-agar-tidak-jenuh-dalam-memilih-barang-zG1-sub-0 {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.320375;
+  color: #000000;
+  font-family: Dongle, 'Source Sans Pro';
+}
+.home-ihw .auto-group-dzjx-tN5 .auto-group-9plf-hTw .baf-technology-menjual-berbagai-produk-teknologi-dengan-merek-yang-bervariasi-mulai-dari-laptop-sampai-gadget-terkini-semuanya-tersedia-dengan-design-marketplace-yang-futuristik-dapat-memanjakan-mata-anda-agar-tidak-jenuh-dalam-memilih-barang-zG1 .baf-technology-menjual-berbagai-produk-teknologi-dengan-merek-yang-bervariasi-mulai-dari-laptop-sampai-gadget-terkini-semuanya-tersedia-dengan-design-marketplace-yang-futuristik-dapat-memanjakan-mata-anda-agar-tidak-jenuh-dalam-memilih-barang-zG1-sub-1 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.367625;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.home-ihw .auto-group-dzjx-tN5 .auto-group-9plf-hTw .baf-technology-menjual-berbagai-produk-teknologi-dengan-merek-yang-bervariasi-mulai-dari-laptop-sampai-gadget-terkini-semuanya-tersedia-dengan-design-marketplace-yang-futuristik-dapat-memanjakan-mata-anda-agar-tidak-jenuh-dalam-memilih-barang-zG1 .baf-technology-menjual-berbagai-produk-teknologi-dengan-merek-yang-bervariasi-mulai-dari-laptop-sampai-gadget-terkini-semuanya-tersedia-dengan-design-marketplace-yang-futuristik-dapat-memanjakan-mata-anda-agar-tidak-jenuh-dalam-memilih-barang-zG1-sub-2 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.367625;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.home-ihw .auto-group-dzjx-tN5 .auto-group-9plf-hTw .baf-technology-menjual-berbagai-produk-teknologi-dengan-merek-yang-bervariasi-mulai-dari-laptop-sampai-gadget-terkini-semuanya-tersedia-dengan-design-marketplace-yang-futuristik-dapat-memanjakan-mata-anda-agar-tidak-jenuh-dalam-memilih-barang-zG1 .baf-technology-menjual-berbagai-produk-teknologi-dengan-merek-yang-bervariasi-mulai-dari-laptop-sampai-gadget-terkini-semuanya-tersedia-dengan-design-marketplace-yang-futuristik-dapat-memanjakan-mata-anda-agar-tidak-jenuh-dalam-memilih-barang-zG1-sub-3 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.367625;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.home-ihw .auto-group-dzjx-tN5 .auto-group-9plf-hTw .baf-technology-menjual-berbagai-produk-teknologi-dengan-merek-yang-bervariasi-mulai-dari-laptop-sampai-gadget-terkini-semuanya-tersedia-dengan-design-marketplace-yang-futuristik-dapat-memanjakan-mata-anda-agar-tidak-jenuh-dalam-memilih-barang-zG1 .baf-technology-menjual-berbagai-produk-teknologi-dengan-merek-yang-bervariasi-mulai-dari-laptop-sampai-gadget-terkini-semuanya-tersedia-dengan-design-marketplace-yang-futuristik-dapat-memanjakan-mata-anda-agar-tidak-jenuh-dalam-memilih-barang-zG1-sub-4 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.367625;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.home-ihw .auto-group-dzjx-tN5 .komponen-3-rzM {
+  box-sizing: border-box;
+  padding: 1.2rem 4.5rem 1.132rem 3rem;
+  width: 48.2rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25), 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #00d1ff;
+  border-radius: 2.9rem;
+  flex-shrink: 0;
+}
+.home-ihw .auto-group-dzjx-tN5 .komponen-3-rzM .msi-1-yZB {
+  margin: 0.217rem 1.7rem 0rem 0rem;
+  width: 3.2rem;
+  height: 3.8857rem;
+  position: relative;
+  background-size: 257.143% 105.882%;
+  background-position: -2.5143rem -0.1524rem;
+  background-image: url('../assets/msi-1.png');
+  flex-shrink: 0;
+}
+.home-ihw .auto-group-dzjx-tN5 .komponen-3-rzM .apple-rcy {
+  margin: 0rem 1.9rem 0.168rem 0rem;
+  width: 4.3rem;
+  height: 4.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-ihw .auto-group-dzjx-tN5 .komponen-3-rzM .legion-ySh {
+  margin: 0rem 2.5rem 0.032rem 0rem;
+  width: 4rem;
+  height: 3.8367rem;
+  position: relative;
+  background-size: 494.461% 290.701%;
+  background-position: -7.895rem -3.5087rem;
+  background-image: url('../assets/legion.png');
+  flex-shrink: 0;
+}
+.home-ihw .auto-group-dzjx-tN5 .komponen-3-rzM .tuf-U8Z {
+  margin: 0.613rem 2.5rem 0rem 0rem;
+  width: 4.3rem;
+  height: 3.481rem;
+  position: relative;
+  background-size: 142.724% 176.336%;
+  background-position: -0.892rem -0.6244rem;
+  background-image: url('../assets/tuf.png');
+  flex-shrink: 0;
+}
+.home-ihw .auto-group-dzjx-tN5 .komponen-3-rzM .rexus-y5K {
+  margin: 0.5rem 1.8rem 0rem 0rem;
+  width: 3.3rem;
+  height: 3.9684rem;
+  position: relative;
+  background-size: 129.114% 130%;
+  background-position: -0.4386rem -0.2402rem;
+  background-image: url('../assets/rexus.png');
+  flex-shrink: 0;
+}
+.home-ihw .auto-group-dzjx-tN5 .komponen-3-rzM .rog-58M {
+  margin: 0.185rem 1.8rem 0rem 0rem;
+  width: 5.8rem;
+  height: 3.2537rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-ihw .auto-group-dzjx-tN5 .komponen-3-rzM .predator-c8H {
+  margin-bottom: 0.3884rem;
+  width: 3.6rem;
+  height: 4.08rem;
+  position: relative;
+  background-size: 174.216% 136.24%;
+  background-position: -1.3296rem -0.8783rem;
+  background-image: url('../assets/predator.png');
+  flex-shrink: 0;
+}

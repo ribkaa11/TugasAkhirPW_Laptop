@@ -1,0 +1,1445 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 128rem;
+}.product-ZM3 {
+  box-sizing: border-box;
+  padding-bottom: 17.9rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #2a2a2a;
+}
+.product-ZM3 .navbar-Fjf {
+  box-sizing: border-box;
+  padding: 3.7rem 3rem 3.7rem 8.3rem;
+  width: 100%;
+  height: 13.2rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 1.7rem 1.43rem rgba(0, 0, 0, 0.25);
+  background-color: #00d1ff;
+  flex-shrink: 0;
+}
+.product-ZM3 .navbar-Fjf .group-13-aG9 {
+  margin-right: 22.8rem;
+  width: 18rem;
+  height: 100%;
+  font-size: 2.1rem;
+  font-weight: 700;
+  line-height: 1.5204000927;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 1.7rem;
+  flex-shrink: 0;
+}
+.product-ZM3 .navbar-Fjf .search-SZF {
+  margin: 1.7rem 7.4rem 1.5rem 0rem;
+  width: 29.8rem;
+  height: calc(100% - 3.2rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.product-ZM3 .navbar-Fjf .search-SZF .rectangle-17-y3P {
+  width: 13rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 16.8rem;
+  top: 0;
+  background-color: #b7b7b7;
+  border-radius: 0.9rem;
+}
+.product-ZM3 .navbar-Fjf .search-SZF .rectangle-16-tg9 {
+  width: 26.4rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.9rem;
+}
+.product-ZM3 .navbar-Fjf .search-SZF .material-symbols-search-qUu {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 27.2rem;
+  top: 0.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-ZM3 .navbar-Fjf .search-SZF .search-Zvh {
+  width: 3.8rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 0.4rem;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.5203999606;
+  color: #9f9f9f;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-ZM3 .navbar-Fjf .discount-U25 {
+  margin: 0rem 6.3rem 0.2rem 0rem;
+  font-size: 2.1rem;
+  font-weight: 700;
+  line-height: 1.5204000927;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-ZM3 .navbar-Fjf .product-zFK {
+  margin: 0rem 6.5rem 0.2rem 0rem;
+  font-size: 2.1rem;
+  font-weight: 700;
+  line-height: 1.5204000927;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-ZM3 .navbar-Fjf .authors-753 {
+  margin-bottom: 0.2rem;
+  font-size: 2.1rem;
+  font-weight: 700;
+  line-height: 1.5204000927;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.product-ZM3 .group-18-CsB {
+  margin: 0rem 49.1rem 5.8rem 49.1rem;
+  box-sizing: border-box;
+  padding: 0rem 0.3rem 0rem 1.7rem;
+  width: calc(100% - 98.2rem);
+  height: 5.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5204000473;
+  letter-spacing: 1.792rem;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.1rem #ffffff;
+  flex-shrink: 0;
+}
+.product-ZM3 .rog-strix-g15-SWd {
+  margin-bottom: 4.9815rem;
+  width: 100%;
+  height: 93.5185rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-ZM3 .rog-strix-g15-SWd .rectangle-21-BDK {
+  width: 150.1rem;
+  height: 85.2rem;
+  position: absolute;
+  left: 0;
+  top: 7.2rem;
+  filter: blur(16.765rem);
+  background-color: rgba(0, 209, 255, 0.3000000119);
+}
+.product-ZM3 .rog-strix-g15-SWd .group-19-u9K {
+  width: 94.3015rem;
+  height: 93.5185rem;
+  position: absolute;
+  left: 54.3rem;
+  top: 0;
+}
+.product-ZM3 .rog-strix-g15-SWd .group-19-u9K .group-15-EhP {
+  width: 94.3015rem;
+  height: 93.5185rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/polygon-1-y8V.png');
+}
+.product-ZM3 .rog-strix-g15-SWd .group-19-u9K .group-15-EhP .polygon-2-NYh {
+  width: 94.3015rem;
+  height: 93.5185rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-ZM3 .rog-strix-g15-SWd .group-19-u9K .danieldinho-removebg-preview-1-tX3 {
+  width: 60.3rem;
+  height: 41.9rem;
+  position: relative;
+  left: 12.5rem;
+  top: 24.4rem;
+  background-size: 100% 98.807%;
+  background-position: 0 0;
+  background-image: url('../assets/danieldinho-removebg-preview-1.png');
+}
+.product-ZM3 .rog-strix-g15-SWd .group-17-mqj {
+  width: 67.1rem;
+  height: 51.8rem;
+  position: absolute;
+  left: 5.9rem;
+  top: 23.4rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 1.6rem 1.6rem 2.26rem rgba(0, 0, 0, 0.25);
+}
+.product-ZM3 .rog-strix-g15-SWd .group-17-mqj .auto-group-a8vq-VWq {
+  margin: 0rem 12.7rem 9.9rem 0rem;
+  width: 54.4rem;
+  height: 34.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-ZM3 .rog-strix-g15-SWd .group-17-mqj .auto-group-a8vq-VWq .rectangle-18-1zy {
+  width: 49.2rem;
+  height: 22.4rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 9.5rem;
+  background-color: #000000;
+  border-radius: 1.3rem;
+}
+.product-ZM3 .rog-strix-g15-SWd .group-17-mqj .auto-group-a8vq-VWq .laptop-rog-strix-g15-adalah-perangkat-khusus-yang-diciptakan-untuk-memenuhi-kebutuhan-gamer-sejati-dengan-desain-yang-memukau-laptop-ini-tidak-hanya-menawarkan-performa-tinggi-tetapi-juga-menyajikan-pengalaman-gaming-yang-menggetarkan-desain-futuristiknya-yang-dipadukan-dengan-pencahayaan-rgb-yang-dinamis-akan-memikat-perhatian-anda-sejak-pandangan-pertama-x9X {
+  width: 41.1rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 10.9rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.5203999837;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.product-ZM3 .rog-strix-g15-SWd .group-17-mqj .auto-group-a8vq-VWq .rectangle-9-inu {
+  width: 6.5rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 47.9rem;
+  top: 28.7rem;
+  background-color: rgba(0, 209, 255, 0.8199999928);
+  border-radius: 1.1rem;
+}
+.product-ZM3 .rog-strix-g15-SWd .group-17-mqj .auto-group-a8vq-VWq .rectangle-14-SU1 {
+  width: 4.4rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 0;
+  top: 7.4rem;
+  background-color: rgba(0, 209, 255, 0.8199999928);
+  border-radius: 1.1rem;
+}
+.product-ZM3 .rog-strix-g15-SWd .group-17-mqj .auto-group-a8vq-VWq .group-20-Aeu {
+  width: 0.7rem;
+  height: 17rem;
+  position: absolute;
+  left: 52.2rem;
+  top: 6.4rem;
+  filter: blur(0.395rem);
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .rog-strix-g15-SWd .group-17-mqj .auto-group-a8vq-VWq .group-20-Aeu .rectangle-21-JFK {
+  width: 100%;
+  height: 17rem;
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .rog-strix-g15-SWd .group-17-mqj .auto-group-a8vq-VWq .group-21-vg1 {
+  width: 0.7rem;
+  height: 17rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 16rem;
+  filter: blur(0.395rem);
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .rog-strix-g15-SWd .group-17-mqj .auto-group-a8vq-VWq .group-21-vg1 .rectangle-21-SuF {
+  width: 100%;
+  height: 17rem;
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .rog-strix-g15-SWd .group-17-mqj .auto-group-a8vq-VWq .rog-strix-g15-ZU5 {
+  width: 35.1rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 0;
+  font-size: 4.8rem;
+  font-weight: 900;
+  line-height: 1.5204000473;
+  font-style: italic;
+  color: #00d1ff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-ZM3 .rog-strix-g15-SWd .group-17-mqj .group-23-fGD {
+  width: 17.9rem;
+  height: 7rem;
+  font-size: 1.5rem;
+  font-weight: 900;
+  line-height: 1.5203999837;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2a2a2a;
+  border-radius: 2.3rem;
+  flex-shrink: 0;
+}
+.product-ZM3 .neon-hih {
+  margin: 0rem 0rem 8.483rem 0rem;
+  width: 128rem;
+  height: 14.9175rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-ZM3 .macbook-pro-m2-2W5 {
+  margin-bottom: 15.7rem;
+  width: 100%;
+  height: 85.2rem;
+  position: relative;
+  filter: blur(16.765rem);
+  background-color: rgba(255, 255, 255, 0.3000000119);
+  flex-shrink: 0;
+}
+.product-ZM3 .macbook-pro-m2-2W5 .group-20-A6V {
+  width: 67.5rem;
+  height: 55rem;
+  position: absolute;
+  left: 55.1rem;
+  top: 28.5rem;
+  box-shadow: 1.6rem 1.6rem 2.26rem rgba(0, 0, 0, 0.25);
+}
+.product-ZM3 .macbook-pro-m2-2W5 .group-20-A6V .auto-group-6zrz-JCh {
+  margin: 0rem 0rem 8.2rem 13.1rem;
+  width: 54.4rem;
+  height: 39.8rem;
+  position: relative;
+}
+.product-ZM3 .macbook-pro-m2-2W5 .group-20-A6V .auto-group-6zrz-JCh .rectangle-18-pRw {
+  width: 49.2rem;
+  height: 27.9rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 9.5rem;
+  background-color: #000000;
+  border-radius: 1.3rem;
+}
+.product-ZM3 .macbook-pro-m2-2W5 .group-20-A6V .auto-group-6zrz-JCh .macbook-pro-m2-membawa-pengalaman-pengguna-ke-level-baru-dengan-kombinasi-kecantikan-desain-yang-khas-apple-dan-kekuatan-canggih-dari-teknologi-terbaru-dibuat-dengan-presisi-dan-perhatian-terhadap-detail-macbook-pro-m2-adalah-perangkat-yang-merangkul-keindahan-estetika-modern-dengan-kehadiran-layar-retina-yang-tajam-dan-warna-yang-hidup-macbook-pro-m2-memberikan-pengalaman-visual-yang-memukau-membuat-setiap-tugas-dari-pekerjaan-kreatif-hingga-hiburan-multimedia-menjadi-lebih-memikat-desainnya-yang-ramping-dan-ringan-memberikan-portabilitas-tanpa-mengorbankan-performa-wmT {
+  width: 43.5rem;
+  height: 25.1rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 10.9rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.5203999837;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.product-ZM3 .macbook-pro-m2-2W5 .group-20-A6V .auto-group-6zrz-JCh .rectangle-9-E8H {
+  width: 6.5rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 47.9rem;
+  top: 33.6rem;
+  background-color: rgba(0, 209, 255, 0.8199999928);
+  border-radius: 1.1rem;
+}
+.product-ZM3 .macbook-pro-m2-2W5 .group-20-A6V .auto-group-6zrz-JCh .rectangle-14-x4H {
+  width: 4.4rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 0;
+  top: 7.4rem;
+  background-color: rgba(0, 209, 255, 0.8199999928);
+  border-radius: 1.1rem;
+}
+.product-ZM3 .macbook-pro-m2-2W5 .group-20-A6V .auto-group-6zrz-JCh .group-20-gky {
+  width: 0.7rem;
+  height: 17rem;
+  position: absolute;
+  left: 52.2rem;
+  top: 6.4rem;
+  filter: blur(0.395rem);
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .macbook-pro-m2-2W5 .group-20-A6V .auto-group-6zrz-JCh .group-20-gky .rectangle-21-cuX {
+  width: 100%;
+  height: 17rem;
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .macbook-pro-m2-2W5 .group-20-A6V .auto-group-6zrz-JCh .group-21-LqX {
+  width: 0.7rem;
+  height: 17rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 16rem;
+  filter: blur(0.395rem);
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .macbook-pro-m2-2W5 .group-20-A6V .auto-group-6zrz-JCh .group-21-LqX .rectangle-21-HEy {
+  width: 100%;
+  height: 17rem;
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .macbook-pro-m2-2W5 .group-20-A6V .auto-group-6zrz-JCh .macbook-pro-m2-QKb {
+  width: 43.4rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 0;
+  font-size: 4.8rem;
+  font-weight: 900;
+  line-height: 1.5204000473;
+  font-style: italic;
+  color: #00d1ff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-ZM3 .macbook-pro-m2-2W5 .group-20-A6V .group-24-iLH {
+  width: 17.9rem;
+  height: 7rem;
+  font-size: 1.5rem;
+  font-weight: 900;
+  line-height: 1.5203999837;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2a2a2a;
+  border-radius: 2.3rem;
+}
+.product-ZM3 .macbook-pro-m2-2W5 .group-22-n5F {
+  width: 44.4rem;
+  height: 44.4rem;
+  position: absolute;
+  left: 9.4rem;
+  top: 26.1rem;
+  border: solid 2rem #ffffff;
+  box-sizing: border-box;
+  filter: blur(2.005rem);
+  background-color: rgba(217, 217, 217, 0);
+  border-radius: 22.2rem;
+}
+.product-ZM3 .macbook-pro-m2-2W5 .group-22-n5F .ellipse-10-iDo {
+  width: 100%;
+  height: 44.4rem;
+  border: solid 1.1rem #ffffff;
+  box-sizing: border-box;
+  background-color: rgba(217, 217, 217, 0);
+  border-radius: 22.2rem;
+}
+.product-ZM3 .macbook-pro-m2-2W5 .macbookpro162023m2skins-fullcoloursilverblackwood-removebg-preview-1-nzM {
+  width: 54.8rem;
+  height: 37.5rem;
+  position: relative;
+  left: 4.2rem;
+  top: 30.4rem;
+  background-size: 100% 146.115%;
+  background-position: 0 -8.8346rem;
+  background-image: url('../assets/macbookpro162023m2skins-fullcoloursilverblackwood-removebg-preview-1.png');
+}
+.product-ZM3 .neon-2-dEH {
+  margin: 0rem 0rem 7.283rem 0rem;
+  width: 128rem;
+  height: 14.9175rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-ZM3 .asus-tuf-f15-MAH {
+  margin-bottom: 6.2815rem;
+  width: 100%;
+  height: 93.5185rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-ZM3 .asus-tuf-f15-MAH .rectangle-22-5ry {
+  width: 150.1rem;
+  height: 85.2rem;
+  position: absolute;
+  left: 0;
+  top: 7.2rem;
+  filter: blur(16.765rem);
+  background-color: rgba(0, 209, 255, 0.3000000119);
+}
+.product-ZM3 .asus-tuf-f15-MAH .group-16-DCV {
+  width: 94.3015rem;
+  height: 93.5185rem;
+  position: absolute;
+  left: 54.3rem;
+  top: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/polygon-1.png');
+}
+.product-ZM3 .asus-tuf-f15-MAH .group-16-DCV .polygon-2-MJh {
+  width: 94.3015rem;
+  height: 93.5185rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-ZM3 .asus-tuf-f15-MAH .group-24-TsX {
+  width: 17.9rem;
+  height: 7rem;
+  position: absolute;
+  left: 55.1rem;
+  top: 68.2rem;
+  font-size: 1.5rem;
+  font-weight: 900;
+  line-height: 1.5203999837;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2a2a2a;
+  border-radius: 2.3rem;
+}
+.product-ZM3 .asus-tuf-f15-MAH .rectangle-19-w21 {
+  width: 49.2rem;
+  height: 22.4rem;
+  position: absolute;
+  left: 8.1rem;
+  top: 32.9rem;
+  background-color: #000000;
+  border-radius: 1.3rem;
+}
+.product-ZM3 .asus-tuf-f15-MAH .laptop-asus-tuf-f15-adalah-inkarnasi-kekuatan-dan-keandalan-dalam-bentuk-yang-menggoda-dirancang-untuk-para-pemenang-yang-tak-kenal-lelah-laptop-ini-tidak-hanya-menjanjikan-performa-tinggi-tetapi-juga-tahan-banting-dan-siap-menghadapi-setiap-tantangan-dengan-desain-yang-tangguh-namun-tetap-stylish-asus-tuf-f15-menampilkan-identitas-gaming-yang-kuat-G4H {
+  width: 43.5rem;
+  height: 16rem;
+  position: absolute;
+  left: 10.4rem;
+  top: 35.9rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.5203999837;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.product-ZM3 .asus-tuf-f15-MAH .rectangle-20-S7B {
+  width: 6.5rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 53.8rem;
+  top: 52.1rem;
+  background-color: rgba(0, 209, 255, 0.8199999928);
+  border-radius: 1.1rem;
+}
+.product-ZM3 .asus-tuf-f15-MAH .rectangle-21-9nH {
+  width: 4.4rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 5.9rem;
+  top: 30.8rem;
+  background-color: rgba(0, 209, 255, 0.8199999928);
+  border-radius: 1.1rem;
+}
+.product-ZM3 .asus-tuf-f15-MAH .group-25-5fw {
+  width: 0.7rem;
+  height: 17rem;
+  position: absolute;
+  left: 58.1rem;
+  top: 29.8rem;
+  filter: blur(0.395rem);
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .asus-tuf-f15-MAH .group-25-5fw .rectangle-21-pdX {
+  width: 100%;
+  height: 17rem;
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .asus-tuf-f15-MAH .group-26-YpR {
+  width: 0.7rem;
+  height: 17rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 39.4rem;
+  filter: blur(0.395rem);
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .asus-tuf-f15-MAH .group-26-YpR .rectangle-21-6L9 {
+  width: 100%;
+  height: 17rem;
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .asus-tuf-f15-MAH .asustufgamingf15gaminglaptop156144hzfhdips-typedisplayintelcorei7-11800hpro-removebg-preview-1-RNR {
+  width: 53.0017rem;
+  height: 59.6176rem;
+  position: absolute;
+  left: 74.6rem;
+  top: 15.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.product-ZM3 .asus-tuf-f15-MAH .asus-tuf-f15-W8y {
+  width: 33.6rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 8.1rem;
+  top: 23.4rem;
+  font-size: 4.8rem;
+  font-weight: 900;
+  line-height: 1.5204000473;
+  font-style: italic;
+  color: #00d1ff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-ZM3 .neon-3-bAR {
+  margin: 0rem 0rem 9.083rem 0rem;
+  width: 128rem;
+  height: 14.9175rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-ZM3 .acer-predator-helios-300-uwo {
+  margin-bottom: 10.7rem;
+  width: 100%;
+  height: 85.2rem;
+  position: relative;
+  filter: blur(16.765rem);
+  background-color: rgba(255, 255, 255, 0.3000000119);
+  flex-shrink: 0;
+}
+.product-ZM3 .acer-predator-helios-300-uwo .group-23-Ez5 {
+  width: 67.5rem;
+  height: 54rem;
+  position: absolute;
+  left: 55.1rem;
+  top: 29.5rem;
+  box-shadow: 1.6rem 1.6rem 2.26rem rgba(0, 0, 0, 0.25);
+}
+.product-ZM3 .acer-predator-helios-300-uwo .group-23-Ez5 .auto-group-xnck-nEu {
+  margin: 0rem 0rem 10.6rem 12.3rem;
+  width: 55.2rem;
+  height: 36.4rem;
+  position: relative;
+}
+.product-ZM3 .acer-predator-helios-300-uwo .group-23-Ez5 .auto-group-xnck-nEu .rectangle-18-uKX {
+  width: 49.2rem;
+  height: 25.2rem;
+  position: absolute;
+  left: 3rem;
+  top: 8.5rem;
+  background-color: #000000;
+  border-radius: 1.3rem;
+}
+.product-ZM3 .acer-predator-helios-300-uwo .group-23-Ez5 .auto-group-xnck-nEu .laptop-acer-predator-helios-300-adalah-manifestasi-kegaharan-dalam-dunia-gaming-menggabungkan-daya-tahan-dan-performa-kelas-atas-dalam-paket-yang-memikat-desainnya-yang-agresif-dan-futuristik-segera-mencuri-perhatian-memberikan-kesan-bahwa-perangkat-ini-lahir-untuk-menguasai-medan-pertempuran-digital-layar-tajam-dan-berwarna-memberikan-pengalaman-visual-yang-mendalam-menjadikan-setiap-game-atau-konten-multimedia-menjadi-lebih-hidup-qU5 {
+  width: 43.3rem;
+  height: 20.6rem;
+  position: absolute;
+  left: 5.3rem;
+  top: 10.6rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.5203999837;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.product-ZM3 .acer-predator-helios-300-uwo .group-23-Ez5 .auto-group-xnck-nEu .rectangle-9-apy {
+  width: 6.5rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 48.7rem;
+  top: 30.2rem;
+  background-color: rgba(0, 209, 255, 0.8199999928);
+  border-radius: 1.1rem;
+}
+.product-ZM3 .acer-predator-helios-300-uwo .group-23-Ez5 .auto-group-xnck-nEu .rectangle-14-v89 {
+  width: 4.4rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 6.4rem;
+  background-color: rgba(0, 209, 255, 0.8199999928);
+  border-radius: 1.1rem;
+}
+.product-ZM3 .acer-predator-helios-300-uwo .group-23-Ez5 .auto-group-xnck-nEu .group-20-EPj {
+  width: 0.7rem;
+  height: 17rem;
+  position: absolute;
+  left: 53rem;
+  top: 5.4rem;
+  filter: blur(0.395rem);
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .acer-predator-helios-300-uwo .group-23-Ez5 .auto-group-xnck-nEu .group-20-EPj .rectangle-21-NVw {
+  width: 100%;
+  height: 17rem;
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .acer-predator-helios-300-uwo .group-23-Ez5 .auto-group-xnck-nEu .group-21-VaZ {
+  width: 0.7rem;
+  height: 17rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 15rem;
+  filter: blur(0.395rem);
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .acer-predator-helios-300-uwo .group-23-Ez5 .auto-group-xnck-nEu .group-21-VaZ .rectangle-21-EY9 {
+  width: 100%;
+  height: 17rem;
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .acer-predator-helios-300-uwo .group-23-Ez5 .auto-group-xnck-nEu .acer-predator-helios-300-xU9 {
+  width: 52.9rem;
+  height: 6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 3.9rem;
+  font-weight: 900;
+  line-height: 1.5204000228;
+  font-style: italic;
+  color: #00d1ff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-ZM3 .acer-predator-helios-300-uwo .group-23-Ez5 .group-24-ftM {
+  width: 17.9rem;
+  height: 7rem;
+  font-size: 1.5rem;
+  font-weight: 900;
+  line-height: 1.5203999837;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2a2a2a;
+  border-radius: 2.3rem;
+}
+.product-ZM3 .acer-predator-helios-300-uwo .group-24-9Hj {
+  width: 44.4rem;
+  height: 44.4rem;
+  position: absolute;
+  left: 9.4rem;
+  top: 26.1rem;
+  border: solid 2rem #ffffff;
+  box-sizing: border-box;
+  filter: blur(2.005rem);
+  background-color: rgba(217, 217, 217, 0);
+  border-radius: 22.2rem;
+}
+.product-ZM3 .acer-predator-helios-300-uwo .group-24-9Hj .ellipse-10-gYZ {
+  width: 100%;
+  height: 44.4rem;
+  border: solid 1.1rem #ffffff;
+  box-sizing: border-box;
+  background-color: rgba(217, 217, 217, 0);
+  border-radius: 22.2rem;
+}
+.product-ZM3 .acer-predator-helios-300-uwo .acerpredatorhelios300i7-11800h16gb1tbwindows11home156laptop-removebg-preview-1-mpu {
+  width: 60rem;
+  height: 37.006rem;
+  position: relative;
+  left: 1.6rem;
+  top: 29.5rem;
+  background-size: 119.76% 194.175%;
+  background-position: -5.6287rem -17.3653rem;
+  background-image: url('../assets/acerpredatorhelios300i7-11800h16gb1tbwindows11home156laptop-removebg-preview-1.png');
+}
+.product-ZM3 .neon-4-CQR {
+  margin: 0rem 0rem 7.383rem 0rem;
+  width: 128rem;
+  height: 14.9175rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-ZM3 .lenovo-legion-5-pro-vrD {
+  margin-bottom: 8.3815rem;
+  width: 100%;
+  height: 93.5185rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-ZM3 .lenovo-legion-5-pro-vrD .rectangle-22-fJ1 {
+  width: 150.1rem;
+  height: 85.2rem;
+  position: absolute;
+  left: 0;
+  top: 7.2rem;
+  filter: blur(16.765rem);
+  background-color: rgba(0, 209, 255, 0.3000000119);
+}
+.product-ZM3 .lenovo-legion-5-pro-vrD .group-16-Bn9 {
+  width: 94.3015rem;
+  height: 93.5185rem;
+  position: absolute;
+  left: 54.3rem;
+  top: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/polygon-1-qqb.png');
+}
+.product-ZM3 .lenovo-legion-5-pro-vrD .group-16-Bn9 .polygon-2-vjj {
+  width: 94.3015rem;
+  height: 93.5185rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-ZM3 .lenovo-legion-5-pro-vrD .group-24-efj {
+  width: 17.9rem;
+  height: 7rem;
+  position: absolute;
+  left: 55.1rem;
+  top: 68.2rem;
+  font-size: 1.5rem;
+  font-weight: 900;
+  line-height: 1.5203999837;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2a2a2a;
+  border-radius: 2.3rem;
+}
+.product-ZM3 .lenovo-legion-5-pro-vrD .rectangle-19-Wxq {
+  width: 49.2rem;
+  height: 22.4rem;
+  position: absolute;
+  left: 8.1rem;
+  top: 32.9rem;
+  background-color: #000000;
+  border-radius: 1.3rem;
+}
+.product-ZM3 .lenovo-legion-5-pro-vrD .lenovo-legion-5-pro-adalah-simbol-kekuatan-dan-presisi-dalam-dunia-gaming-dengan-desain-yang-menawan-dan-futuristik-laptop-ini-memikat-mata-sejak-pandangan-pertama-memberikan-kesan-bahwa-performa-tinggi-dan-keunggulan-gaming-telah-ditanamkan-dalam-setiap-sentuhan-layar-yang-besar-dan-tajam-menampilkan-dunia-virtual-dengan-kejelasan-luar-biasa-menyuguhkan-pengalaman-gaming-yang-mendalam-3hs {
+  width: 43rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 10.4rem;
+  top: 34.7rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.5203999837;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.product-ZM3 .lenovo-legion-5-pro-vrD .rectangle-20-QRw {
+  width: 6.5rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 53.8rem;
+  top: 52.1rem;
+  background-color: rgba(0, 209, 255, 0.8199999928);
+  border-radius: 1.1rem;
+}
+.product-ZM3 .lenovo-legion-5-pro-vrD .rectangle-21-jUD {
+  width: 4.4rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 5.9rem;
+  top: 30.8rem;
+  background-color: rgba(0, 209, 255, 0.8199999928);
+  border-radius: 1.1rem;
+}
+.product-ZM3 .lenovo-legion-5-pro-vrD .group-25-fMs {
+  width: 0.7rem;
+  height: 17rem;
+  position: absolute;
+  left: 58.1rem;
+  top: 29.8rem;
+  filter: blur(0.395rem);
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .lenovo-legion-5-pro-vrD .group-25-fMs .rectangle-21-zuw {
+  width: 100%;
+  height: 17rem;
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .lenovo-legion-5-pro-vrD .group-26-7zZ {
+  width: 0.7rem;
+  height: 17rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 39.4rem;
+  filter: blur(0.395rem);
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .lenovo-legion-5-pro-vrD .group-26-7zZ .rectangle-21-4eu {
+  width: 100%;
+  height: 17rem;
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .lenovo-legion-5-pro-vrD .lenovo-legion-5-pro-PhB {
+  width: 49.7rem;
+  height: 6.9rem;
+  position: absolute;
+  left: 8.1rem;
+  top: 23.4rem;
+  font-size: 4.5rem;
+  font-weight: 900;
+  line-height: 1.5203999837;
+  font-style: italic;
+  color: #00d1ff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-ZM3 .lenovo-legion-5-pro-vrD .popularlenovolegion5progaminglaptopwithrtx3070dropstous1099forblackfriday-removebg-preview-1-77P {
+  width: 68.8863rem;
+  height: 52.8347rem;
+  position: absolute;
+  left: 62.7569rem;
+  top: 18.7327rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.product-ZM3 .neon-5-njK {
+  margin: 0rem 0rem 10.283rem 0rem;
+  width: 128rem;
+  height: 14.9175rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-ZM3 .rexus-vonix-f15-7mb {
+  margin-bottom: 17.4rem;
+  box-sizing: border-box;
+  padding: 26.1rem 18.2rem 1.7rem 18.7rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  filter: blur(16.765rem);
+  background-color: rgba(255, 255, 255, 0.3000000119);
+  flex-shrink: 0;
+}
+.product-ZM3 .rexus-vonix-f15-7mb .auto-group-8kp3-qSh {
+  margin: 0rem 1.3rem 13rem 0rem;
+  width: 44.4rem;
+  height: 44.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-ZM3 .rexus-vonix-f15-7mb .auto-group-8kp3-qSh .group-22-Mfw {
+  width: 44.4rem;
+  height: 44.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 2rem #ffffff;
+  box-sizing: border-box;
+  filter: blur(2.005rem);
+  background-color: rgba(217, 217, 217, 0);
+  border-radius: 22.2rem;
+}
+.product-ZM3 .rexus-vonix-f15-7mb .auto-group-8kp3-qSh .group-22-Mfw .ellipse-10-hUu {
+  width: 100%;
+  height: 44.4rem;
+  border: solid 1.1rem #ffffff;
+  box-sizing: border-box;
+  background-color: rgba(217, 217, 217, 0);
+  border-radius: 22.2rem;
+}
+.product-ZM3 .rexus-vonix-f15-7mb .auto-group-8kp3-qSh .rexusvonixf13-removebg-preview-1-zD7 {
+  width: 30rem;
+  height: 30.9203rem;
+  position: relative;
+  left: 5.8rem;
+  top: 6.7rem;
+  background-size: 153.374% 148.81%;
+  background-position: -4.7853rem -6.1656rem;
+  background-image: url('../assets/rexusvonixf13-removebg-preview-1.png');
+}
+.product-ZM3 .rexus-vonix-f15-7mb .group-20-UPB {
+  display: flex;
+  flex-direction: column;
+  box-shadow: 1.6rem 1.6rem 2.26rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.product-ZM3 .rexus-vonix-f15-7mb .group-20-UPB .auto-group-1q4o-S57 {
+  margin: 0rem 0rem 13.1rem 13.1rem;
+  width: 54.4rem;
+  height: 34.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-ZM3 .rexus-vonix-f15-7mb .group-20-UPB .auto-group-1q4o-S57 .rectangle-18-vW5 {
+  width: 49.2rem;
+  height: 22.4rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 9.5rem;
+  background-color: #000000;
+  border-radius: 1.3rem;
+}
+.product-ZM3 .rexus-vonix-f15-7mb .group-20-UPB .auto-group-1q4o-S57 .headset-rexus-vonix-f15-adalah-jawaban-atas-kebutuhan-audio-gaming-yang-intens-dan-mendalam-desainnya-yang-ergonomis-tidak-hanya-memikat-mata-tetapi-juga-memberikan-kenyamanan-maksimal-untuk-sesi-gaming-yang-panjang-dengan-pencahayaan-led-yang-menghadirkan-sentuhan-futuristik-headset-ini-menghadirkan-pengalaman-gaming-yang-tak-terlupakan-SjK {
+  width: 42.3rem;
+  height: 16rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 12.1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.5203999837;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.product-ZM3 .rexus-vonix-f15-7mb .group-20-UPB .auto-group-1q4o-S57 .rectangle-9-oTP {
+  width: 6.5rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 47.9rem;
+  top: 28.7rem;
+  background-color: rgba(0, 209, 255, 0.8199999928);
+  border-radius: 1.1rem;
+}
+.product-ZM3 .rexus-vonix-f15-7mb .group-20-UPB .auto-group-1q4o-S57 .rectangle-14-vY1 {
+  width: 4.4rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 0;
+  top: 7.4rem;
+  background-color: rgba(0, 209, 255, 0.8199999928);
+  border-radius: 1.1rem;
+}
+.product-ZM3 .rexus-vonix-f15-7mb .group-20-UPB .auto-group-1q4o-S57 .group-20-rRf {
+  width: 0.7rem;
+  height: 17rem;
+  position: absolute;
+  left: 52.2rem;
+  top: 6.4rem;
+  filter: blur(0.395rem);
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .rexus-vonix-f15-7mb .group-20-UPB .auto-group-1q4o-S57 .group-20-rRf .rectangle-21-zGy {
+  width: 100%;
+  height: 17rem;
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .rexus-vonix-f15-7mb .group-20-UPB .auto-group-1q4o-S57 .group-21-JoT {
+  width: 0.7rem;
+  height: 17rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 16rem;
+  filter: blur(0.395rem);
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .rexus-vonix-f15-7mb .group-20-UPB .auto-group-1q4o-S57 .group-21-JoT .rectangle-21-2zM {
+  width: 100%;
+  height: 17rem;
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .rexus-vonix-f15-7mb .group-20-UPB .auto-group-1q4o-S57 .rexus-vonix-f15-AKs {
+  width: 41.6rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 0;
+  font-size: 4.8rem;
+  font-weight: 900;
+  line-height: 1.5204000473;
+  font-style: italic;
+  color: #00d1ff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-ZM3 .rexus-vonix-f15-7mb .group-20-UPB .group-24-sVB {
+  width: 17.9rem;
+  height: 7rem;
+  font-size: 1.5rem;
+  font-weight: 900;
+  line-height: 1.5203999837;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2a2a2a;
+  border-radius: 2.3rem;
+  flex-shrink: 0;
+}
+.product-ZM3 .neon-6-hUD {
+  margin: 0rem 0rem 4.183rem 0rem;
+  width: 128rem;
+  height: 14.9175rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-ZM3 .asus-rog-spatha-x-gaming-mouse-DxM {
+  margin-bottom: 10.0815rem;
+  width: 100%;
+  height: 93.5185rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-ZM3 .asus-rog-spatha-x-gaming-mouse-DxM .rectangle-23-x9F {
+  width: 150.1rem;
+  height: 85.2rem;
+  position: absolute;
+  left: 0;
+  top: 7.2rem;
+  filter: blur(16.765rem);
+  background-color: rgba(0, 209, 255, 0.3000000119);
+}
+.product-ZM3 .asus-rog-spatha-x-gaming-mouse-DxM .group-27-gb3 {
+  width: 94.3015rem;
+  height: 93.5185rem;
+  position: absolute;
+  left: 54.3rem;
+  top: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/polygon-1-2yX.png');
+}
+.product-ZM3 .asus-rog-spatha-x-gaming-mouse-DxM .group-27-gb3 .polygon-2-297 {
+  width: 94.3015rem;
+  height: 93.5185rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.product-ZM3 .asus-rog-spatha-x-gaming-mouse-DxM .group-28-x2m {
+  width: 17.9rem;
+  height: 7rem;
+  position: absolute;
+  left: 55.1rem;
+  top: 68.2rem;
+  font-size: 1.5rem;
+  font-weight: 900;
+  line-height: 1.5203999837;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2a2a2a;
+  border-radius: 2.3rem;
+}
+.product-ZM3 .asus-rog-spatha-x-gaming-mouse-DxM .rectangle-24-pqf {
+  width: 49.2rem;
+  height: 22.4rem;
+  position: absolute;
+  left: 8.1rem;
+  top: 32.9rem;
+  background-color: #000000;
+  border-radius: 1.3rem;
+}
+.product-ZM3 .asus-rog-spatha-x-gaming-mouse-DxM .asus-rog-spatha-x-gaming-mouse-adalah-senjata-andal-bagi-para-gamer-yang-mengincar-kemenangan-dalam-pertempuran-virtual-dengan-desain-yang-agresif-dan-ergonomis-mouse-gaming-ini-tidak-hanya-memanjakan-mata-tetapi-juga-memberikan-kenyamanan-optimal-selama-sesi-permainan-yang-panjang-dengan-pencahayaan-rgb-yang-dinamis-spatha-x-memberikan-sentuhan-futuristik-yang-sesuai-dengan-gaya-gaming-modern-9sw {
+  width: 43.4rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 10.4rem;
+  top: 34.5rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.5203999837;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.product-ZM3 .asus-rog-spatha-x-gaming-mouse-DxM .rectangle-25-X7o {
+  width: 6.5rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 53.8rem;
+  top: 52.1rem;
+  background-color: rgba(0, 209, 255, 0.8199999928);
+  border-radius: 1.1rem;
+}
+.product-ZM3 .asus-rog-spatha-x-gaming-mouse-DxM .rectangle-26-3M3 {
+  width: 4.4rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 5.9rem;
+  top: 30.8rem;
+  background-color: rgba(0, 209, 255, 0.8199999928);
+  border-radius: 1.1rem;
+}
+.product-ZM3 .asus-rog-spatha-x-gaming-mouse-DxM .group-29-mnq {
+  width: 0.7rem;
+  height: 17rem;
+  position: absolute;
+  left: 58.1rem;
+  top: 29.8rem;
+  filter: blur(0.395rem);
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .asus-rog-spatha-x-gaming-mouse-DxM .group-29-mnq .rectangle-21-uu3 {
+  width: 100%;
+  height: 17rem;
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .asus-rog-spatha-x-gaming-mouse-DxM .group-30-qnh {
+  width: 0.7rem;
+  height: 17rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 39.4rem;
+  filter: blur(0.395rem);
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .asus-rog-spatha-x-gaming-mouse-DxM .group-30-qnh .rectangle-21-BrZ {
+  width: 100%;
+  height: 17rem;
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .asus-rog-spatha-x-gaming-mouse-DxM .lenovo-legion-5-pro-7VK {
+  width: 67.7rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 5.9rem;
+  top: 22.6rem;
+  font-size: 3.6rem;
+  font-weight: 900;
+  line-height: 1.5204000473;
+  font-style: italic;
+  color: #00d1ff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-ZM3 .asus-rog-spatha-x-gaming-mouse-DxM .spathax-removebg-preview-1-pPj {
+  width: 33.5rem;
+  height: 25.1rem;
+  position: absolute;
+  left: 84.7rem;
+  top: 34.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.product-ZM3 .neon-7-Lcy {
+  margin: 0rem 0rem 9.183rem 0rem;
+  width: 128rem;
+  height: 14.9175rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-ZM3 .msi-cyborg-15-ffF {
+  box-sizing: border-box;
+  padding: 26.1rem 18.2rem 1.7rem 18.7rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  filter: blur(16.765rem);
+  background-color: rgba(255, 255, 255, 0.3000000119);
+  flex-shrink: 0;
+}
+.product-ZM3 .msi-cyborg-15-ffF .auto-group-3bth-CQH {
+  margin: 0rem 1.3rem 13rem 0rem;
+  width: 44.4rem;
+  height: 44.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-ZM3 .msi-cyborg-15-ffF .auto-group-3bth-CQH .group-24-j9K {
+  width: 44.4rem;
+  height: 44.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 2rem #ffffff;
+  box-sizing: border-box;
+  filter: blur(2.005rem);
+  background-color: rgba(217, 217, 217, 0);
+  border-radius: 22.2rem;
+}
+.product-ZM3 .msi-cyborg-15-ffF .auto-group-3bth-CQH .group-24-j9K .ellipse-10-UMo {
+  width: 100%;
+  height: 44.4rem;
+  border: solid 1.1rem #ffffff;
+  box-sizing: border-box;
+  background-color: rgba(217, 217, 217, 0);
+  border-radius: 22.2rem;
+}
+.product-ZM3 .msi-cyborg-15-ffF .auto-group-3bth-CQH .msicyborg15-removebg-preview-1-AVX {
+  width: 35rem;
+  height: 42.2832rem;
+  position: relative;
+  left: 5.8rem;
+  top: 1.7rem;
+  background-size: 130.058% 107.656%;
+  background-position: -5.2601rem -1.6185rem;
+  background-image: url('../assets/msicyborg15-removebg-preview-1.png');
+}
+.product-ZM3 .msi-cyborg-15-ffF .group-23-3ZK {
+  display: flex;
+  flex-direction: column;
+  box-shadow: 1.6rem 1.6rem 2.26rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.product-ZM3 .msi-cyborg-15-ffF .group-23-3ZK .auto-group-yguj-Qem {
+  margin: 0rem 0rem 5.5rem 13.1rem;
+  width: 54.4rem;
+  height: 42.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-ZM3 .msi-cyborg-15-ffF .group-23-3ZK .auto-group-yguj-Qem .rectangle-18-8am {
+  width: 49.2rem;
+  height: 30.4rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 9.5rem;
+  background-color: #000000;
+  border-radius: 1.3rem;
+}
+.product-ZM3 .msi-cyborg-15-ffF .group-23-3ZK .auto-group-yguj-Qem .msi-cyborg-15-adalah-perangkat-berjiwa-gaming-yang-memukau-menciptakan-aliansi-antara-kekuatan-dan-gaya-futuristik-desainnya-yang-mempesona-tidak-hanya-mencuri-perhatian-tetapi-juga-menggambarkan-esensi-dari-semangat-gamer-yang-tak-kenal-lelah-dengan-layar-yang-tajam-dan-warna-yang-hidup-cyborg-15-membawa-pengguna-masuk-ke-dalam-dunia-gaming-yang-mendalam-keyboard-yang-ergonomis-dan-pencahayaan-rgb-yang-dapat-disesuaikan-menciptakan-suasana-gaming-yang-benar-benar-immersif-memungkinkan-pemain-untuk-mengendalikan-setiap-aksi-dengan-presisi-TN9 {
+  width: 43.4rem;
+  height: 25.1rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 12.3rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.5203999837;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+}
+.product-ZM3 .msi-cyborg-15-ffF .group-23-3ZK .auto-group-yguj-Qem .rectangle-9-ZZb {
+  width: 6.5rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 47.9rem;
+  top: 36.3rem;
+  background-color: rgba(0, 209, 255, 0.8199999928);
+  border-radius: 1.1rem;
+}
+.product-ZM3 .msi-cyborg-15-ffF .group-23-3ZK .auto-group-yguj-Qem .rectangle-14-VTF {
+  width: 4.4rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 0;
+  top: 7.4rem;
+  background-color: rgba(0, 209, 255, 0.8199999928);
+  border-radius: 1.1rem;
+}
+.product-ZM3 .msi-cyborg-15-ffF .group-23-3ZK .auto-group-yguj-Qem .group-20-E9w {
+  width: 0.7rem;
+  height: 17rem;
+  position: absolute;
+  left: 52.2rem;
+  top: 6.4rem;
+  filter: blur(0.395rem);
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .msi-cyborg-15-ffF .group-23-3ZK .auto-group-yguj-Qem .group-20-E9w .rectangle-21-xrd {
+  width: 100%;
+  height: 17rem;
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .msi-cyborg-15-ffF .group-23-3ZK .auto-group-yguj-Qem .group-21-He1 {
+  width: 0.7rem;
+  height: 17rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 16rem;
+  filter: blur(0.395rem);
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .msi-cyborg-15-ffF .group-23-3ZK .auto-group-yguj-Qem .group-21-He1 .rectangle-21-ptq {
+  width: 100%;
+  height: 17rem;
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.product-ZM3 .msi-cyborg-15-ffF .group-23-3ZK .auto-group-yguj-Qem .msi-cyborg-15-9gD {
+  width: 36.2rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 0;
+  font-size: 4.8rem;
+  font-weight: 900;
+  line-height: 1.5204000473;
+  font-style: italic;
+  color: #00d1ff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-ZM3 .msi-cyborg-15-ffF .group-23-3ZK .group-24-TB7 {
+  width: 17.9rem;
+  height: 7rem;
+  font-size: 1.5rem;
+  font-weight: 900;
+  line-height: 1.5203999837;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2a2a2a;
+  border-radius: 2.3rem;
+  flex-shrink: 0;
+}
